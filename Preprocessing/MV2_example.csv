@@ -1,0 +1,13 @@
+Amount,Mortgage,Car Loan,Short Term,Loan type,Age,Male
+50000,1,0,0,Mortgage,19,0
+1000,0,1,0,Car loan,23,1
+27000,0,1,0,Car loan,44,1
+655555,1,0,0,Mortgage,45,0
+187666,1,0,0,Mortgage,65,0
+165777,1,0,0,Mortgage,39,
+,0,1,0,Mortgage,23,1
+145000,,,,,27,0
+156899,1,0,0,Mortgage,48,0
+15000,0,0,1,Short-term credit,55,1
+7000,0,1,0,Car ,26,1
+,1,0,0,,38,0
